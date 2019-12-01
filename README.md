@@ -23,5 +23,4 @@ Both river data (via cartopy.features) and IODP core sites will be added on top 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ii2181/FinalProject.git/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/ii2181/FinalProject.git/master
+https://mybinder.org/v2/gh/ii2181/FinalProject/e26ab9485b39cfaf555ab2ab0dcba8ed1fee5f6a
