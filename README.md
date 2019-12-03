@@ -13,4 +13,3 @@ Global ocean water concentrations of Salinty and Barium will be plotted separate
 Basin specific concentrations will also be plotted to observe finer scale correlations.
 Their correlations and dissimilarities will then be calculated and plotted using cartopy to show whether the 1:1 ratio that is typically assumed between the two variables can be verified.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ii2181/FinalProject.git/master)
