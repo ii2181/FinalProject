@@ -21,4 +21,3 @@ Both river data (via cartopy.features) and IODP core sites will be added on top 
   a) where any excess Barium inputs can be attributed to (ie coastal estuary environments)
   b) which cores are best to use for paleoproductivity studies which rely on the assumption that Ba:Salinity is correlated in a 1:1 ratio.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ii2181/FinalProject.git/master)
