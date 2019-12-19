@@ -12,5 +12,3 @@ https://www.bodc.ac.uk/geotraces/data/idp2017/
 Global ocean water concentrations of Salinty, Barium, and Alkalinity will be plotted separately.
 Basin specific concentrations and depth profiles will also be plotted to observe finer scale correlations.
 Their correlations then be observed using a crossplot to show whether the 1:1 ratio that is typically assumed between the two variables can be verified.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ii2181/FinalProject.git/master)
